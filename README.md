@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Gonzalo-Barra/ping-page)
+- Solution URL: [Github Repository](https://github.com/Gonzalo-Barra/ping-page)
 - Live Site URL: [Github Pages](https://gonzalo-barra.github.io/ping-page/)
 
 ## My process
